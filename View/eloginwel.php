@@ -5,7 +5,7 @@
 
 <html>
 <head>
-	<title>Employee Panel | XYZ Corporation</title>
+	<title>Employee Panel | Pixelated Ltd.</title>
 	<link rel="stylesheet" type="text/css" href="styleemplogin.css">
 	<link href="https://fonts.googleapis.com/css?family=Lobster|Montserrat" rel="stylesheet">
 </head>
