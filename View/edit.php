@@ -3,7 +3,7 @@ include("../Controller/edit.php")?>
 
 <html>
 <head>
-	<title>View Employee |  Admin Panel | XYZ Corporation</title>
+	<title>View Employee |  Admin Panel | Pixelated Ltd.</title>
 	<!-- Icons font CSS-->
     <link href="../assets/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
     <link href="../assets/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
